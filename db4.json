@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "0a34",
+      "description": "pendrive",
+      "price": 37.9,
+      "amount": 10
+    },
+    {
+      "id": "cf35",
+      "description": "HD Externo",
+      "price": 250.9,
+      "amount": 50
+    },
+    {
+      "id": "8023",
+      "description": "Mouse",
+      "price": 49.7,
+      "amount": 2
+    },
+    {
+      "description": "Teclado",
+      "price": 89.90,
+      "amount": 24,
+      "id": "fb3d"
+    },
+    {
+      "id": "a345",
+      "description": "Monitor",
+      "price": 1729.9,
+      "amount": 3
+    }
+  ],
+  "clients": [
+    {
+      "id": "981c",
+      "nome": "Henrique Fornari",
+      "endereco": "Rua Pindamonhangaba 99, Vila Fruta-SP",
+      "casado": false,
+      "renda": 20000
+    },
+    {
+      "id": "356e",
+      "nome": "Vinicius Sakai",
+      "endereco": "Rua Castro Alves, Vila Fruta-SP",
+      "casado": true,
+      "renda": 2000
+    },
+    {
+      "id": "9887",
+      "nome": "Pedro Silva",
+      "endereco": "Rua Joao Albuquerque, Vila Fruta-SP",
+      "casado": false,
+      "renda": 2000
+    },
+    {
+      "id": "945e",
+      "nome": "Joao Pereira",
+      "endereco": "Avenida malafaia, Vila Fruta-SP",
+      "casado": true,
+      "renda": 1000
+    },
+    {
+      "id": "945e",
+      "nome": "Vitor Ferreira",
+      "endereco": "Rua Caatinga, Vila Fruta-SP",
+      "casado": true,
+      "renda": 1000
+    }
+  ]
+}
